@@ -3,22 +3,22 @@ export default function About() {
         <div className="min-h-screen bg-white dark:bg-black">
             <div className="max-w-4xl mx-auto px-4 py-12 sm:py-16">
                 <h1 className="text-2xl sm:text-3xl font-bold font-mono text-black dark:text-[#22c55e] mb-8">
-                    About BlockchainHQ
+                    About DevHub
                 </h1>
 
                 <div className="space-y-8 text-black/70 dark:text-[#22c55e]/70 font-mono">
                     {/* Welcome Message */}
                     <section className="space-y-4">
                         <p className="text-lg sm:text-xl leading-relaxed">
-                            Hey Web3 builders! 👋 Ever felt like there's no one-stop hub to learn, discuss, and stay in the loop
-                            with everything happening in blockchain? Well, that's exactly why BlockchainHQ exists!
+                            Hey developers! 👋 Ever felt like there's no one-stop hub to learn, discuss, and stay in the loop
+                            with everything happening in blockchain? Well, that's exactly why DevHub exists!
                         </p>
                     </section>
 
                     {/* What We Offer */}
                     <section className="space-y-4">
                         <p className="text-sm sm:text-base leading-relaxed">
-                            We're a community-first platform built for Web3 devs, founders, and enthusiasts who want to:
+                            We're a community-first platform built for developers, founders, and enthusiasts who want to:
                         </p>
                         <div className="space-y-3 pl-4">
                             <p className="flex items-start gap-2 text-sm sm:text-base">
@@ -43,11 +43,11 @@ export default function About() {
                     {/* Mission */}
                     <section className="space-y-4">
                         <p className="text-sm sm:text-base leading-relaxed">
-                            No more scattered info or dead-end discussions—just real Web3 talk, in one place.
+                            No more scattered info or dead-end discussions—just real blockchain talk, in one place.
                             Whether you're here to learn, build, or connect, welcome home!
                         </p>
                         <p className="text-sm sm:text-base leading-relaxed">
-                            Thank you for being part of BlockchainHQ! Let's shape the future of Web3 together😊
+                            Thank you for being part of DevHub! Let's shape the future together😊
                         </p>
                     </section>
 
@@ -57,13 +57,13 @@ export default function About() {
                             Join Our Community
                         </h2>
                         <p className="text-sm sm:text-base leading-relaxed">
-                            Whether you're a seasoned blockchain developer or just starting your Web3 journey,
-                            BlockchainHQ is your go-to platform for growth and collaboration. Join our community
+                            Whether you're a seasoned blockchain developer or just starting your blockchain journey,
+                            DevHub is your go-to platform for growth and collaboration. Join our community
                             of builders and be part of the decentralized future.
                         </p>
                         <div className="flex flex-wrap gap-4 pt-4">
                             <a
-                                href="https://x.com/blockchainhqxyz"
+                                href="https://x.com/devhubxyz"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center px-4 py-2 rounded-lg bg-black/10 dark:bg-[#22c55e]/10 

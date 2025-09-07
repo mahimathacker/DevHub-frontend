@@ -74,13 +74,13 @@ export default function Footer() {
                     <div className="flex flex-col sm:flex-row items-center justify-between pt-2 sm:pt-4 border-t border-black/10 dark:border-[#22c55e]/10">
                         {/* Copyright Text */}
                         <p className="text-black/50 dark:text-[#22c55e]/50 font-mono text-xs sm:text-sm">
-                            © 2025 BlockchainHQ. All rights reserved
+                            © 2025 DevHub. All rights reserved
                         </p>
 
                         {/* Social Icons */}
                         <div className="flex items-center gap-4 mt-2 sm:mt-0">
                             <a
-                                href="https://x.com/blockchainhqxyz"
+                                href="https://x.com/devhubxyz"
                                 target="_blank"
                                 className="text-black/70 dark:text-[#22c55e]/70 hover:text-black dark:hover:text-[#22c55e] transition-colors"
                                 aria-label="Twitter"

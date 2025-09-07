@@ -6,11 +6,11 @@ import { getHackathons, getLocations, getCategories, getStatuses } from '@/lib/h
 // export const revalidate = 3600; // Cache for 1 hour instead of 0
 
 export const metadata: Metadata = {
-    title: 'Hackathons | BlockchainHQ',
+    title: 'Hackathons | DevHub',
     description: 'Discover and participate in the latest blockchain hackathons. Filter by category, status, location, and prize pool.',
     keywords: [
         'blockchain hackathons',
-        'web3 hackathons',
+        'blockchain hackathons',
         'crypto hackathons',
         'blockchain competitions',
         'developer challenges',
@@ -20,23 +20,23 @@ export const metadata: Metadata = {
 
     ],
     openGraph: {
-        title: 'Hackathons | BlockchainHQ',
+        title: 'Hackathons | DevHub',
         description: 'Discover and participate in the latest blockchain hackathons',
-        url: 'https://blockchainhq.xyz/hackathons',
-        siteName: 'BlockchainHQ',
+        url: 'https://devhub.xyz/hackathons',
+        siteName: 'DevHub',
         images: [
             {
                 url: 'https://blockchain-hq.s3.ap-south-1.amazonaws.com/hackathon-thumbnails/0003e6cd34.png',
                 width: 1200,
                 height: 630,
-                alt: 'BlockchainHQ Hackathons'
+                alt: 'DevHub Hackathons'
             }
         ],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'blockchainhqxyz',
+        title: 'devhubxyz',
         description: 'Discover and participate in the latest blockchain hackathons',
     }
 };

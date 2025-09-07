@@ -10,8 +10,8 @@ export default function TermsOfUse() {
                     {/* Welcome Section */}
                     <section className="space-y-4">
                         <p className="text-sm sm:text-base leading-relaxed">
-                            Welcome to BlockchainHQ! Before you dive into the Web3 discussions, learn, and collaborate,
-                            please take a moment to read our Terms of Use. By accessing or using BlockchainHQ, you agree
+                            Welcome to DevHub! Before you dive into the discussions, learn, and collaborate,
+                            please take a moment to read our Terms of Use. By accessing or using DevHub, you agree
                             to these terms. If you don't agree, we kindly ask you not to use our platform.
                         </p>
                     </section>
@@ -22,7 +22,7 @@ export default function TermsOfUse() {
                             1. Who We Are
                         </h2>
                         <p className="text-sm sm:text-base leading-relaxed">
-                            BlockchainHQ is a community-driven platform designed for Web3 builders, developers, and
+                            DevHub is a community-driven platform designed for builders, developers, and
                             enthusiasts to connect, share knowledge, and stay updated on the latest in blockchain technology.
                         </p>
                     </section>
@@ -35,7 +35,7 @@ export default function TermsOfUse() {
                         <div className="space-y-2">
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>🔹</span>
-                                The content shared on BlockchainHQ is for informational and educational purposes only.
+                                The content shared on DevHub is for informational and educational purposes only.
                             </p>
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>🔹</span>
@@ -43,7 +43,7 @@ export default function TermsOfUse() {
                             </p>
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>🔹</span>
-                                Any opinions shared by community members belong to the individuals, not BlockchainHQ.
+                                Any opinions shared by community members belong to the individuals, not DevHub.
                             </p>
                         </div>
                     </section>
@@ -53,7 +53,7 @@ export default function TermsOfUse() {
                         <h2 className="text-xl font-bold text-black dark:text-[#22c55e]">
                             3. Your Responsibilities
                         </h2>
-                        <p className="text-sm sm:text-base">By using BlockchainHQ, you agree to:</p>
+                        <p className="text-sm sm:text-base">By using DevHub, you agree to:</p>
                         <div className="space-y-2">
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>✅</span>
@@ -61,7 +61,7 @@ export default function TermsOfUse() {
                             </p>
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>✅</span>
-                                Share only relevant and ethical content related to Web3.
+                                Share only relevant and ethical content related to blockchain technology.
                             </p>
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>✅</span>
@@ -82,7 +82,7 @@ export default function TermsOfUse() {
                         </h2>
                         <p className="flex items-start gap-2 text-sm sm:text-base">
                             <span>⚠️</span>
-                            BlockchainHQ does not provide financial, investment, or legal advice. Any discussions,
+                            DevHub does not provide financial, investment, or legal advice. Any discussions,
                             posts, or resources should not be considered as recommendations. Always do your own
                             research (DYOR) before making any decisions.
                         </p>
@@ -96,11 +96,11 @@ export default function TermsOfUse() {
                         <div className="space-y-2">
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>🔹</span>
-                                Content shared on BlockchainHQ belongs to its respective creators.
+                                Content shared on DevHub belongs to its respective creators.
                             </p>
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>🔹</span>
-                                By posting on the platform, you grant BlockchainHQ a non-exclusive license to display
+                                By posting on the platform, you grant DevHub a non-exclusive license to display
                                 and distribute your content within the community.
                             </p>
                             <p className="flex items-start gap-2 text-sm sm:text-base">
@@ -116,29 +116,29 @@ export default function TermsOfUse() {
                             6. External Links & Third-Party Content
                         </h2>
                         <p className="text-sm sm:text-base leading-relaxed">
-                            BlockchainHQ may contain links to third-party websites, projects, or tools. We are not
+                            DevHub may contain links to third-party websites, projects, or tools. We are not
                             responsible for external content, privacy policies, or security risks associated with these sites.
                         </p>
                     </section>
 
-                    {/* Web3 Features & Smart Contract Risks */}
+                    {/* Blockchain Features & Smart Contract Risks */}
                     <section className="space-y-4">
                         <h2 className="text-xl font-bold text-black dark:text-[#22c55e]">
-                            7. Web3 Features & Smart Contract Risks
+                            7. Blockchain Features & Smart Contract Risks
                         </h2>
                         <p className="text-sm sm:text-base mb-2">
-                            BlockchainHQ may integrate Web3-native features such as wallet connections, token rewards,
+                            DevHub may integrate blockchain-native features such as wallet connections, token rewards,
                             or decentralized identity. You understand and agree that:
                         </p>
                         <div className="space-y-2">
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>🔹</span>
-                                Using Web3 technologies involves inherent risks, including smart contract vulnerabilities
+                                Using blockchain technologies involves inherent risks, including smart contract vulnerabilities
                                 and market fluctuations.
                             </p>
                             <p className="flex items-start gap-2 text-sm sm:text-base">
                                 <span>🔹</span>
-                                BlockchainHQ is not liable for any loss, hacks, or unintended transactions.
+                                DevHub is not liable for any loss, hacks, or unintended transactions.
                             </p>
                         </div>
                     </section>
@@ -150,7 +150,7 @@ export default function TermsOfUse() {
                         </h2>
                         <p className="text-sm sm:text-base leading-relaxed">
                             We may update these Terms of Use from time to time. If there are major changes, we'll notify you.
-                            Your continued use of BlockchainHQ means you accept the revised terms.
+                            Your continued use of DevHub means you accept the revised terms.
                         </p>
                     </section>
 
@@ -162,10 +162,10 @@ export default function TermsOfUse() {
                         <p className="text-sm sm:text-base leading-relaxed">
                             For any questions or concerns regarding these terms, feel free to reach out to us at{' '}
                             <a
-                                href="mailto:hello@blockchainhq.xyz"
+                                href="mailto:hello@devhub.xyz"
                                 className="text-black dark:text-[#22c55e] hover:underline"
                             >
-                                hello@blockchainhq.xyz
+                                hello@devhub.xyz
                             </a>
                         </p>
                     </section>
@@ -173,7 +173,7 @@ export default function TermsOfUse() {
                     {/* Closing */}
                     <section className="pt-4">
                         <p className="text-sm sm:text-base leading-relaxed">
-                            Thank you for being a part of BlockchainHQ! Let's build a better Web3, together. 🚀🔥
+                            Thank you for being a part of DevHub! Let's build a better future, together. 🚀🔥
                         </p>
                     </section>
                 </div>

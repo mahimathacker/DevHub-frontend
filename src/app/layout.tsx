@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BlockchainHQ",
-  description: "A community platform for Web3 builders to learn, discuss, and stay updated on everything that matters in the Web3 space, all in one place.",
+  title: "DevHub",
+  description: "A community platform for developers to learn, discuss, and stay updated on everything that matters in the tech space, all in one place.",
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",

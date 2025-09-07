@@ -3,21 +3,21 @@ import JobsDetailPage from '@/components/jobs/JobsDetailPage';
 import { getJobs, getJobTypes, getJobCategories, getCategoryTypes, getJobLocations } from '@/lib/jobs';
 
 export const metadata: Metadata = {
-    title: 'Jobs | BlockchainHQ',
-    description: 'Find the best Web3 and blockchain jobs. Browse through opportunities from leading companies in the blockchain space.',
-    keywords: 'blockchain jobs, web3 jobs, crypto jobs, blockchain careers, web3 careers, cryptocurrency jobs',
+    title: 'Jobs | DevHub',
+    description: 'Find the best blockchain jobs. Browse through opportunities from leading companies in the blockchain space.',
+    keywords: 'blockchain jobs, crypto jobs, blockchain careers, cryptocurrency jobs',
     openGraph: {
-        title: 'Jobs | BlockchainHQ',
-        description: 'Find the best Web3 and blockchain jobs. Browse through opportunities from leading companies in the blockchain space.',
-        url: 'https://blockchainhq.xyz/jobs',
-        siteName: 'BlockchainHQ',
+        title: 'Jobs | DevHub',
+        description: 'Find the best blockchain jobs. Browse through opportunities from leading companies in the blockchain space.',
+        url: 'https://devhub.xyz/jobs',
+        siteName: 'DevHub',
         locale: 'en_US',
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Jobs | Blockchainhq',
-        description: 'Find the best Web3 and blockchain jobs. Browse through opportunities from leading companies in the blockchain space.',
+        title: 'Jobs | DevHub',
+        description: 'Find the best blockchain jobs. Browse through opportunities from leading companies in the blockchain space.',
     }
 };
 
@@ -75,22 +75,22 @@ export default async function JobsPage({
 // export async function generateMetadata({ searchParams }: { searchParams: { [key: string]: string } }) {
 //     const { keyword, category, jobType } = searchParams;
 
-//     let title = 'Jobs | BlockchainHQ';
-//     let description = 'Find the best Web3 and blockchain jobs.';
+//     let title = 'Jobs | DevHub';
+//     let description = 'Find the best blockchain jobs.';
 
 //     if (keyword) {
-//         title = `${keyword} Jobs | BlockchainHQ`;
-//         description = `Find ${keyword} jobs in Web3 and blockchain space.`;
+//         title = `${keyword} Jobs | DevHub`;
+//         description = `Find ${keyword} jobs in blockchain space.`;
 //     }
 
 //     if (category) {
-//         title = `${category} Jobs | BlockchainHQ`;
+//         title = `${category} Jobs | DevHub`;
 //         description = `Browse ${category} jobs in the blockchain industry.`;
 //     }
 
 //     if (jobType) {
-//         title = `${jobType} Blockchain Jobs | BlockchainHQ`;
-//         description = `Find ${jobType} opportunities in Web3 and blockchain companies.`;
+//         title = `${jobType} Blockchain Jobs | DevHub`;
+//         description = `Find ${jobType} opportunities in blockchain companies.`;
 //     }
 
 //     return {
@@ -99,7 +99,7 @@ export default async function JobsPage({
 //         openGraph: {
 //             title,
 //             description,
-//             url: `https://blockchainhq.xyz/jobs?${new URLSearchParams(searchParams).toString()}`,
+//             url: `https://devhub.xyz/jobs?${new URLSearchParams(searchParams).toString()}`,
 //         },
 //         twitter: {
 //             title,

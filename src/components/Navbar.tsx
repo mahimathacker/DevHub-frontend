@@ -15,7 +15,7 @@ export default function Navbar() {
                 {/* Logo/Brand Text */}
                 <div className="flex items-center">
                     <Link href="/" className="text-black dark:text-[#22c55e] text-lg sm:text-xl font-mono hover:opacity-90 transition-colors">
-                        BlockchainHQ
+                        DevHub
                     </Link>
                 </div>
 

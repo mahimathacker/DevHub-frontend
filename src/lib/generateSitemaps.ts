@@ -11,7 +11,7 @@ import { getJobs, getJobCategories, getJobTypes, getJobLocations, getCategoryTyp
 import type { Job } from '../types/job';
 import type { resources } from "@/types/resources";
 import { getAllResources, getResourceDifficultyLevels, getResourceCategories, getResourceLanguages, getResourcePriceTypes, getResourceTypes } from "./resources";
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://blockchainhq.xyz";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://devhub.xyz";
 const MAX_URLS_PER_SITEMAP = 1000;
 const SITEMAPS_DIR = 'public';
 

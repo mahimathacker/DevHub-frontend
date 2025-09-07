@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
                             Introduction
                         </h2>
                         <p className="text-sm sm:text-base leading-relaxed">
-                            BlockchainHQ ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy
+                            DevHub ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy
                             explains how we collect, use, disclose, and safeguard your information when you visit our website
                             and use our services.
                         </p>
@@ -28,8 +28,8 @@ export default function PrivacyPolicy() {
                         </h2>
                         <p className="text-sm sm:text-base leading-relaxed">
                             We collect information from authorized sources to provide robust and relevant data for our platform.
-                            This includes publicly available Web3 data, aggregated content from verified sources, and user
-                            interactions on BlockchainHQ. If you create an account, we may collect details such as your username,
+                            This includes publicly available blockchain data, aggregated content from verified sources, and user
+                            interactions on DevHub. If you create an account, we may collect details such as your username,
                             email address, and any information voluntarily shared through discussions, comments, or interactions.
                             We also collect technical data such as your IP address, browser type, and device information to
                             optimize platform performance.
@@ -42,8 +42,8 @@ export default function PrivacyPolicy() {
                             How We Use and Share Information
                         </h2>
                         <p className="text-sm sm:text-base leading-relaxed">
-                            The information collected is used to enhance your experience on BlockchainHQ, provide relevant
-                            updates, and maintain a high-quality platform for Web3 discussions. We may use data for
+                            The information collected is used to enhance your experience on DevHub, provide relevant
+                            updates, and maintain a high-quality platform for discussions. We may use data for
                             personalization, improving platform functionality, and ensuring compliance with security measures.
                             Your information may be shared with service providers for operational purposes, such as hosting,
                             analytics, or customer support. However, we do not sell or share personal data with third parties
@@ -60,9 +60,9 @@ export default function PrivacyPolicy() {
                         <p className="text-sm sm:text-base leading-relaxed">
                             We take appropriate security measures to protect the data collected from unauthorized access,
                             alteration, or loss. While we implement safeguards, no system is entirely secure. Users should
-                            be aware that interactions involving Web3 wallets or decentralized applications may be recorded
+                            be aware that interactions involving blockchain wallets or decentralized applications may be recorded
                             on public blockchain networks, which we do not control. It is advisable to follow best security
-                            practices when interacting with Web3 technologies.
+                            practices when interacting with blockchain technologies.
                         </p>
                     </section>
 
@@ -72,7 +72,7 @@ export default function PrivacyPolicy() {
                             Links to Other Websites
                         </h2>
                         <p className="text-sm sm:text-base leading-relaxed">
-                            BlockchainHQ may include links to third-party websites or services for informational purposes.
+                            DevHub may include links to third-party websites or services for informational purposes.
                             We are not responsible for the content, security, or privacy practices of these external sites.
                             Users are encouraged to review their respective privacy policies before engaging with them.
                         </p>
@@ -99,7 +99,7 @@ export default function PrivacyPolicy() {
                         <p className="text-sm sm:text-base leading-relaxed">
                             We may update this Privacy Policy periodically to reflect changes in our practices or legal
                             requirements. Any significant updates will be communicated through the platform or via email.
-                            Continued use of BlockchainHQ after policy changes signifies your acceptance of the updated terms.
+                            Continued use of DevHub after policy changes signifies your acceptance of the updated terms.
                         </p>
                     </section>
 
@@ -111,10 +111,10 @@ export default function PrivacyPolicy() {
                         <p className="text-sm sm:text-base leading-relaxed">
                             If you have any questions about this Privacy Policy, please contact us at{' '}
                             <a
-                                href="mailto:privacy@blockchainhq.xyz"
+                                href="mailto:privacy@devhub.xyz"
                                 className="text-black dark:text-[#22c55e] hover:underline"
                             >
-                                hello@blockchainhq.xyz
+                                hello@devhub.xyz
                             </a>
                         </p>
                     </section>

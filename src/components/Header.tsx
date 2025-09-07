@@ -87,7 +87,7 @@ export default function Header({ onSearch }: HeaderProps) {
             {/* Title with gradient and animation */}
             <div className="mb-16">
                 <h1 className="text-black dark:text-transparent dark:bg-clip-text dark:bg-gradient-to-r dark:from-[#22c55e] dark:to-emerald-400 font-mono text-3xl font-bold animate-fade-in">
-                    Everything that Web3 builders needs,
+                    Everything that developers need,
                 </h1>
                 <h1 className="text-black dark:text-transparent dark:bg-clip-text dark:bg-gradient-to-r dark:from-emerald-400 dark:to-[#22c55e] font-mono text-3xl font-bold mt-1">
                     all at one place!

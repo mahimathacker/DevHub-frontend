@@ -34,10 +34,10 @@ export default function Contact() {
                                         For general inquiries and support
                                     </p>
                                     <a
-                                        href="mailto:hello@blockchainhq.xyz"
+                                        href="mailto:hello@devhub.xyz"
                                         className="text-black dark:text-[#22c55e] inline-block no-underline"
                                     >
-                                        hello@blockchainhq.xyz
+                                        hello@devhub.xyz
                                     </a>
                                 </div>
                             </div>
@@ -59,12 +59,12 @@ export default function Contact() {
                                         Get the latest updates and announcements
                                     </p>
                                     <a
-                                        href="https://x.com/blockchainhqxyz"
+                                        href="https://x.com/devhubxyz"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="text-black dark:text-[#22c55e] inline-block no-underline"
                                     >
-                                        @blockchainhqxyz
+                                        @devhubxyz
                                     </a>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@ export default function Contact() {
                                         Join Our Community
                                     </h3>
                                     <p className="text-sm">
-                                        Connect with fellow Web3 builders
+                                        Connect with fellow developers
                                     </p>
                                     <a
                                         href="https://x.com/ianjali_th"
@@ -112,7 +112,7 @@ export default function Contact() {
                                         Submit Feedback
                                     </h3>
                                     <p className="text-sm">
-                                        Help us improve BlockchainHQ
+                                        Help us improve DevHub
                                     </p>
                                     <a
                                         href="https://forms.gle/Eb2jr5S96qWvHzTp6"

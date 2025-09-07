@@ -2,20 +2,20 @@ import { Metadata } from "next";
 import { getResources, getResourceCategories, getResourceTypes, getResourceLanguages, getResourceDifficultyLevels, getResourcePriceTypes } from "@/lib/resources";
 import ResourcesDetailPage from "@/components/resources/ResourcesDetailPage";
 export const metadata: Metadata = {
-    title: 'Resources | Blockchainhq',
+    title: 'Resources | DevHub',
     description: 'Find the best resources for your blockchain journey. Browse through resources from leading companies in the blockchain space.',
-    keywords: 'blockchain resources, web3 resources, crypto resources, blockchain learning, web3 learning, cryptocurrency resources',
+    keywords: 'blockchain resources, crypto resources, blockchain learning, cryptocurrency resources',
     openGraph: {
-        title: 'Resources | Blockchainhq',
+        title: 'Resources | DevHub',
         description: 'Find the best resources for your blockchain journey. Browse through resources from leading companies in the blockchain space.',
-        url: 'https://blockchainhq.xyz/resources',
-        siteName: 'BlockchainHQ',
+        url: 'https://devhub.xyz/resources',
+        siteName: 'DevHub',
         locale: 'en_US',
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Resources | Blockchainhq',
+        title: 'Resources | DevHub',
         description: 'Find the best resources for your blockchain journey. Browse through resources from leading companies in the blockchain space.',
     }
 }
